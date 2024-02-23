@@ -1,15 +1,15 @@
 using UnityEngine;
 
-public class PlayAnimationOnButtonPress : MonoBehaviour
+public class ToggleAnimation : MonoBehaviour
 {
-    public Animator targetAnimator; // Assign this in the inspector
-    public string triggerName = "Activate"; // Name of the trigger parameter
+    public Animator animator; // Assign the Animator component of your target GameObject.
 
-    public void PlayAnimation()
+    // This method is called when the button is pressed.
+    public void Toggle()
     {
-        if (targetAnimator)
-        {
-            targetAnimator.SetTrigger(triggerName);
-        }
+        // Get the current state of the 'IsOn' parameter.
+        bool isOn = animator.GetBool("IsOn");
+        // Toggle the 'IsOn' parameter.
+        animator.SetBool("IsOn", !isOn);
     }
 }
