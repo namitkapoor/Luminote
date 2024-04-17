@@ -88,8 +88,8 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.0416628, g: 0.30980393, b: 0, a: 1}
+    - _Color: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _PressRimColor: {r: 0.5557554, g: 0.735849, b: 0.43348756, a: 1}
+    - _PressRimColor: {r: 0.59542483, g: 0.9528302, b: 0.3545647, a: 1}
     - _RimColor: {r: 0.29336214, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []

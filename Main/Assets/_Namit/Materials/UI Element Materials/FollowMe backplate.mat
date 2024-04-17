@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FollowMe backplate
+  m_Shader: {fileID: 4800000, guid: aca12b5bed90b92448a88757df739294, type: 3}
+  m_Parent: {fileID: 2100000, guid: 7af522ec5db3daf49af66caadf00cfb6, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - USE_ALBEDO_TEXTURE
+  - _ALPHATEST_ON
+  - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+  m_InvalidKeywords:
+  - _AUTO_PULSE__ON
+  - _PULSE_ENABLED__ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1.93, y: 2.14}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 735e9a2fb0d56214bb934ed35a10e53a, type: 3}
+        m_Scale: {x: 1.93, y: 2.14}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Auto_Pulse_: 1
+    - _Cutoff: 0.39
+    - _Mode: 1
+    - _Pulse_Enabled_: 1
+    - _SmoothnessTextureChannel: 1
+    m_Colors: []
+  m_BuildTextureStacks: []

@@ -50,9 +50,42 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Pilot-test1.unity
     guid: e09b05e477eba60458f843951a54a426
-  - enabled: 1
+  - enabled: 0
     path: Assets/Pilot-test2.unity
     guid: 77153af8ffdebd448aa1df294a7a145b
+  - enabled: 0
+    path: Assets/Pilot-test3.unity
+    guid: 646a425aaa844b74c85a621a3fcd100b
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene1a-Loudness.unity
+    guid: 428b187eecc16b34788933e72c2ba865
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene1b-Loudness.unity
+    guid: 47aa1e7550299c74cb57a82d659073a1
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene2a-Pitch.unity
+    guid: 5d60009e30d9f9443909ebd08b983b9e
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene2b-Pitch.unity
+    guid: eae28de74015a6b4f86467c6676e1ef3
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene3a-ColorSaturation.unity
+    guid: 946a049f4be86b64bb52facad477a076
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene3b-ColorSaturation.unity
+    guid: f11e70423e6013743955fa12d1caee44
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene4a-ColorChange.unity
+    guid: ddda2d88211b6ef4d8c6e8c3868a5a90
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene4b-ColorChange.unity
+    guid: ebff36c703a4e90458e45b78742ae6f8
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene5a-Animation.unity
+    guid: 1163087c710fb3a428c2e7ad798fd6cb
+  - enabled: 1
+    path: Assets/_Namit/Eval Test scenes/Scene5b-Animation.unity
+    guid: 0144c173cf96b724f8bcb5f992e97b6f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a3358b3f8e60e9640bc10d6af920147d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3672f5d8a71e92249a7727c388e72846, type: 2}

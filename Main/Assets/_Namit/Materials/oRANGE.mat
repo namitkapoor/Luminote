@@ -90,6 +90,6 @@ Material:
     m_Colors:
     - _Color: {r: 0.8867924, g: 0.36336476, b: 0.087377876, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _PressRimColor: {r: 0.5557554, g: 0.735849, b: 0.43348756, a: 1}
-    - _RimColor: {r: 0.29336214, g: 1, b: 0, a: 0}
+    - _PressRimColor: {r: 0.7924528, g: 0.5377952, b: 0.085558295, a: 1}
+    - _RimColor: {r: 0.3584906, g: 0.3025692, b: 0.08943476, a: 0}
   m_BuildTextureStacks: []
